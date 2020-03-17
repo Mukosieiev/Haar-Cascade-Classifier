@@ -8,7 +8,7 @@ pip3 install cv2
 pip3 install numpy
 ```
 ### Installation
- After the downloading the code, change the route to the classifier on your computer and run the application.
+Download the .py and .XML files and put them in the same directory. Change the route to the .XML classifier (line 20 inside .py file) on your computer and run the application.
 ## Dataset
 For any machine learning algorithm to work, you have to supply the dataset of the positive and negative images. 
 ### Positive images 
@@ -20,3 +20,5 @@ All pictures were converted to black and white colors in order to decrease the t
 I downloaded all the negative images from the [image-net](http://www.image-net.org/).
 ## Training
 The training process took me a little less than 2 hours. I trained the classifier using the [DigitalOcean](https://www.digitalocean.com/) server.
+# Demonstration
+To see the actual results, please see the following [YouTube link](https://www.youtube.com/watch?v=-lNZPx-Hu2g). 
