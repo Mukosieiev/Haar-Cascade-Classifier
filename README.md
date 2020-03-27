@@ -1,6 +1,7 @@
 # Haar-Cascade-Classifier
 The following project is the demonstration of the deep learning image classifier that is written in Python using OpenCV. 
 I supplied the images of my face into the algorithm, and made the machine recognize my face.
+![Screenshot](https://github.com/Mukosieiev/Haar-Cascade-Classifier/blob/master/myFace.PNG)
 ### Prerequisites
 You would have to install the OpenCV and NumPy. Type in the following in your console:
 ```
