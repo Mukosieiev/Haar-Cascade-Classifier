@@ -24,5 +24,3 @@ All pictures were converted to black and white colors in order to decrease the t
 I downloaded all the negative images from the [image-net](http://www.image-net.org/).
 ## Training
 The training process took me a little less than 2 hours. I trained the classifier using the [DigitalOcean](https://www.digitalocean.com/) server.
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/-lNZPx-Hu2g/0.jpg)](https://www.youtube.com/watch?v=-lNZPx-Hu2g "Video Title")
