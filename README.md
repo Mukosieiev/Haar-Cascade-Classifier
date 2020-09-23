@@ -1,10 +1,10 @@
 # Demonstration
-To see the actual results, please see the following [YouTube link](https://www.youtube.com/watch?v=-lNZPx-Hu2g). 
+[![YOUTUBE Video](http://img.youtube.com/vi/-lNZPx-Hu2g/0.jpg)](https://www.youtube.com/watch?v=-lNZPx-Hu2g "Video Title")
 # Haar-Cascade-Classifier
 The following project is the demonstration of the deep learning image classifier that is written in Python using OpenCV. 
 I supplied the images of my face into the algorithm, and made the machine recognize my face.
 
-![Screenshot](https://github.com/Mukosieiev/Haar-Cascade-Classifier/blob/master/myFace.PNG)
+
 ### Prerequisites
 You would have to install the OpenCV and NumPy. Type in the following in your console:
 ```
@@ -25,3 +25,4 @@ I downloaded all the negative images from the [image-net](http://www.image-net.o
 ## Training
 The training process took me a little less than 2 hours. I trained the classifier using the [DigitalOcean](https://www.digitalocean.com/) server.
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/-lNZPx-Hu2g/0.jpg)](https://www.youtube.com/watch?v=-lNZPx-Hu2g "Video Title")
