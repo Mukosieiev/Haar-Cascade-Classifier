@@ -1,5 +1,5 @@
 # Demonstration
-[![YOUTUBE Video](http://img.youtube.com/vi/-lNZPx-Hu2g/0.jpg)](https://www.youtube.com/watch?v=-lNZPx-Hu2g "Video Title")
+[![YOUTUBE Video](http://img.youtube.com/vi/-lNZPx-Hu2g/0.jpg)](https://www.youtube.com/watch?v=-lNZPx-Hu2g "Video demonstration")
 # Haar-Cascade-Classifier
 The following project is the demonstration of the deep learning image classifier that is written in Python using OpenCV. 
 I supplied the images of my face into the algorithm, and made the machine recognize my face.
