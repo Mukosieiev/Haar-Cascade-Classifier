@@ -2,6 +2,8 @@
 The following project is the demonstration of the deep learning image classifier that is written in Python using OpenCV. 
 I supplied the images of my face into the algorithm, and made the machine recognize my face.
 ![Screenshot](https://github.com/Mukosieiev/Haar-Cascade-Classifier/blob/master/myFace.PNG)
+# Demonstration
+To see the actual results, please see the following [YouTube link](https://www.youtube.com/watch?v=-lNZPx-Hu2g). 
 ### Prerequisites
 You would have to install the OpenCV and NumPy. Type in the following in your console:
 ```
@@ -21,5 +23,4 @@ All pictures were converted to black and white colors in order to decrease the t
 I downloaded all the negative images from the [image-net](http://www.image-net.org/).
 ## Training
 The training process took me a little less than 2 hours. I trained the classifier using the [DigitalOcean](https://www.digitalocean.com/) server.
-# Demonstration
-To see the actual results, please see the following [YouTube link](https://www.youtube.com/watch?v=-lNZPx-Hu2g). 
+
